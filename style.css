@@ -1,1 +1,49 @@
+h1  {
+       text-align: center;
+  t
+       font-size: 12pt;
+       color: white;
+       margin-bottom: 0px;
+      
+        margin-top:5%
+       
+    }
+    
+
+    table {
+       margin: 20px;
+      margin-left:26%;
+       width: 290px;
+           border:5px solid-black;
+      border-color:white;
+    }
+    
+    th {
+       padding: 3px;
+    }
+    
+    td {
+       padding-left: 15px;
+       padding-right: 8px;
+       border: 1px solid black;
+       background-color: #ffffcc;
+    }
+    
+    #trHeader {
+    
+       color:white;
+      
+    }
+    
+    .centerCell {
+       text-align: center;
+    }
+    
+body {
+    background-color: skyblue;
+}
+img{
+  padding:4px;
+  margin-left:17%
+}
 
